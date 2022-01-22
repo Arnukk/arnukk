@@ -10,7 +10,7 @@ if (in_array($origin, $allowed_domains)) {
 
 $response = $_REQUEST['retrievedObject'];
 
-var_dump($_SERVER);
+//var_dump($_SERVER);
 
 $fp = fopen('scholarly.json', 'w');
 fwrite($fp, json_encode($response));
