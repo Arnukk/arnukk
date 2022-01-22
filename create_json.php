@@ -1,10 +1,10 @@
 <?php 
 $response = $_REQUEST;
 
-//var_dump($_SERVER);
+var_dump($response);
 
 $fp = fopen('scholarly.json', 'w');
-fwrite($fp, json_encode($response));
+fwrite($fp, $response);
 fclose($fp);
 
 
