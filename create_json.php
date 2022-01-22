@@ -1,14 +1,5 @@
 <?php 
-$origin = $_SERVER['HTTP_ORIGIN'];
-$allowed_domains = [
-    'https://areg.website'
-];
-
-if (in_array($origin, $allowed_domains)) {
-    header('Access-Control-Allow-Origin: ' . $origin);
-}
-
-$response = $_REQUEST['retrievedObject'];
+$response = $_REQUEST;
 
 //var_dump($_SERVER);
 
