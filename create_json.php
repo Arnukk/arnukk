@@ -1,5 +1,5 @@
 <?php 
-$response = file_get_contents('php://input')
+$response = file_get_contents('php://input');
 
 var_dump($response);
 
