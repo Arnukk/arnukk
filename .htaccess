@@ -1,3 +1,1 @@
-<FilesMatch "\.(json)$">
 Header set Access-Control-Allow-Origin "*"
-</FilesMatch>
