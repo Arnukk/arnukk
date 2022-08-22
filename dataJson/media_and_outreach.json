@@ -1,0 +1,39 @@
+{
+	"items":[
+		{
+			"type":"image",
+			"src":"pic03.jpg",
+			"content":"LoremM1 ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. "
+		},
+		{
+			"type":"video",	
+			"src":"SrkjlQFHU-I",
+			"content":" Test run of a fully-autonomous contactless multi-parcel delivery robot developed by the Autonomous Vehicle Lab (AVLab) at Khalifa University during the Dubai World Challenge for Self-Driving Transport 2021."
+		},
+		{
+			"type":"video",	
+			"src":"jdpDUra2ntE",
+			"content":" Test run of a fully-autonomous contactless multi-parcel delivery robot developed by the Autonomous Vehicle Lab (AVLab) at Khalifa University during the Dubai World Challenge for Self-Driving Transport 2021."
+		},
+		{
+			"type":"image",
+			"src":"pic03.jpg",
+			"content":"Lorem3 ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices."
+		},
+		{
+			"type":"image",	
+			"src":"pic03.jpg",
+			"content":"Lorem4 ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec <b>lorem</b> luctus ultrices. "
+		},
+		{
+			"type":"image",	
+			"src":"pic03.jpg",
+			"content":""
+		},
+		{
+			"type":"image",	
+			"src":"bg.jpg",
+			"content":""
+		}
+	]
+}
